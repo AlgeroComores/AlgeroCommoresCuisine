@@ -25,6 +25,26 @@ body{
   margin-top: 0;
 }
 
+.top{
+  text-align: center;
+    margin-bottom: 25px;
+}
+
+.idlink{
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 24px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  margin-right: 20px;
+}
+
+.idlink:hover{
+  text-decoration: underline;
+  text-shadow: 1px 1px 2px black
+}
+
 .h{
   margin-bottom: 0;
   color: white;
@@ -113,4 +133,17 @@ body{
   border-width: 5px;
   border-color: white;
   border-radius: 15px;
+}
+
+.headsec1{
+  margin-bottom: 0px;
+  font-size: 45px;
+  font-weight: 3800;
+}
+
+.subsec1{
+  text-decoration: underline;
+  margin-top: 0px;
+  font-size: 24px;
+  font-weight: 500;
 }
